@@ -1,4 +1,4 @@
-# UR Clubs - Group C
+# UR Involved - Group C
 
 **Course:** ENSE 281 – Software Engineering Management  
 **Semester:** Winter 2026  
